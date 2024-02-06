@@ -2726,19 +2726,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\אתי\\.nuget\\packages\\": {}
+    "C:\\Users\\eti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\אתי\\Documents\\PCode\\PCode4\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\eti\\Documents\\GitHub\\ToDoList\\Sever\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\אתי\\Documents\\PCode\\PCode4\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\אתי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\אתי\\Documents\\PCode\\PCode4\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\eti\\Documents\\GitHub\\ToDoList\\Sever\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\eti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eti\\Documents\\GitHub\\ToDoList\\Sever\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\אתי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
